@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working as a Fullstack Developer at Itriad<br>👯 Looking to collaborate on diverse projects involving C#, Node.js, React.js, TypeScript, PHP, Nest.js<br>🤝 Seeking help with advanced Fullstack development techniques<br>🌱 Learning more about cutting-edge technologies in software development<br>💬 Feel free to ask me about my experience with Fullstack development and the technologies I use<br>⚡ An interesting fact: I thrive on the challenge of utilizing a variety of technologies to create seamless user experiences 
+🔭 Currently working as a Fullstack Developer at Jovens Genios<br>👯 Looking to collaborate on diverse projects involving C#, Node.js, React.js, TypeScript, PHP, Nest.js<br>🤝 Seeking help with advanced Fullstack development techniques<br>🌱 Learning more about cutting-edge technologies in software development<br>💬 Feel free to ask me about my experience with Fullstack development and the technologies I use<br>⚡ An interesting fact: I thrive on the challenge of utilizing a variety of technologies to create seamless user experiences 
 
 
 ## 🌐 Socials:
